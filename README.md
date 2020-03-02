@@ -3,14 +3,15 @@
 
 
 
-Team Members:
+# Team Members:
 
 
 Krithika Damodar Bhat
 
 Meeti Baliga
 
-Instructions to Run the code:
+
+# Instructions to Run the code:
 
 
 On the terminal:
@@ -21,8 +22,8 @@ javac RentalSimulation/Main.java
 java RentalSimulation/Main
 
 
-Language Used: Java
+#Language Used: Java
 
-Compiler: javac
+#Compiler: javac
 
 output will be stored in logs.txt in src
